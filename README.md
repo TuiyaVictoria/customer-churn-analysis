@@ -8,7 +8,9 @@ Identify customer segments with high churn rates
 Discover key drivers of churn
 Provide data-driven recommendations to reduce churn
 ### Tools Used
-Dataset: Telco Customer Churn Dataset
+Dataset: 
+[ Telco Customer Churn Dataset](https://www.example.com](https://github.com/TuiyaVictoria/customer-churn-analysis/blob/main/telcocustomerchurn.csv)
+
 ### Dataset Description
 The dataset contains customer-level information including:
 Customer tenure
@@ -28,9 +30,8 @@ Payment method
 Identification of high-risk churn segments
 ### Key Insights
 Customers on month-to-month contracts have the highest churn rate
-![Churn by Tenure Group](https://github.com/TuiyaVictoria/customer-churn-analysis/blob/main/Churn%20by%20Tenure%20Group.png)
 New customers (0–12 months tenure) are significantly more likely to churn
-![alt text](image.jpg)
+![Churn by Tenure Group](https://github.com/TuiyaVictoria/customer-churn-analysis/blob/main/Churn%20by%20Tenure%20Group.png)
 Customers with higher monthly charges churn more frequently
 ![alt text](image.jpg)
 Customers using electronic check payments show higher churn rates
