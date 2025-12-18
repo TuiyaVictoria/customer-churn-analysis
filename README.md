@@ -9,7 +9,7 @@ Discover key drivers of churn
 Provide data-driven recommendations to reduce churn
 ### Tools Used
 Dataset: 
-[ Telco Customer Churn Dataset](https://www.example.com](https://github.com/TuiyaVictoria/customer-churn-analysis/blob/main/telcocustomerchurn.csv)
+[Telco Customer Churn Dataset](https://github.com/TuiyaVictoria/customer-churn-analysis/blob/main/telcocustomerchurn.csv)
 
 ### Dataset Description
 The dataset contains customer-level information including:
